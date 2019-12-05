@@ -40,7 +40,7 @@
         font-weight: bolder;
         text-align: right;
         appearance: input;
-        font-size: 1.3em;
+        font-size: 1em;
         overflow: scroll;
         -ms-overflow-style: none;
         /* cursor: pointer; */
@@ -64,7 +64,7 @@
         font-weight: bolder;
         text-align: right;
         appearance: input;
-        font-size: 1.3em;
+        font-size: 1em;
       }
 
 
