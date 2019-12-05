@@ -35,7 +35,7 @@
       border-bottom: 1px solid orange;
       font-weight: bolder;
       text-align: right;
-      font-size: 1em;
+      font-size: 1.5em;
       overflow: scroll;
       -ms-overflow-style: none;
         /* cursor: pointer; */
@@ -54,7 +54,7 @@
       border-bottom: 1px solid orange;
       font-weight: bolder;
       text-align: right;
-      font-size: 1em;
+      font-size: 1.5em;
     }
 
     #dps{
