@@ -28,7 +28,7 @@
 
     #sci{
       width: 100%;
-      padding: 100px;
+      padding: 50px;
       height: 200px;
       background-color: #0b0b0b;
       color: orange;
@@ -47,7 +47,7 @@
 
     #screen{
       width: 100%;
-      padding: 100px;
+      padding: 50px;
       height: 100px;
       background-color: #0b0b0b;
       color: orange;
